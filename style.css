@@ -1,0 +1,62 @@
+html {
+  background: darkred;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+table {
+  border: black solid 2px;
+}
+td {
+  border: black solid 2px;
+  padding: 5px 5px;
+}
+body {
+  width: 700px;
+  margin: auto;
+  background: white;
+  padding: 25px 50px;
+  border-radius: 25px;
+}
+
+.Bgr1 {
+  width: 200px;
+  height: 200px;
+}
+.fri {
+  width: 200px;
+  height: 200px;
+}
+img {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 200px;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+.piz {
+  width: 200px;
+}
+li {
+  font-size: 25px;
+}
+button {
+  font-size: 15px;
+}
+.pizz {
+  height: 150px;
+}
+.pizzz {
+  height: 200px;
+}
+h1,
+h2 {
+  font-family: "Nunito", sans-serif;
+}
+img:hover {
+  opacity: 0.7;
+  transition: opacity 0.5s;
+}
+tr {
+  border: black 2px solid;
+}
